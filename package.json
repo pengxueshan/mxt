@@ -1,6 +1,6 @@
 {
   "name": "mxt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "mountain auto frontend tool",
   "main": "index.js",
   "bin": {
@@ -33,7 +33,8 @@
     "fis3-hook-components": "1.0.3",
     "fis3-packager-map": "1.0.9",
     "fis3-errors": "*",
-    "fis3-hook-relative": "*"
+    "fis3-hook-relative": "*",
+    "mxt-preprocessor-autoprefixer": "*"
   },
   "devDependencies": {
     "chai": "^2.2.0",
